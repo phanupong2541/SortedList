@@ -1,0 +1,15 @@
+D:\BornTodev\Sortedlist\bin\Debug\Sortedlist.exe.config
+D:\BornTodev\Sortedlist\bin\Debug\Sortedlist.exe
+D:\BornTodev\Sortedlist\bin\Debug\Sortedlist.pdb
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.csprojAssemblyReference.cache
+D:\BornTodev\Sortedlist\obj\Debug\MainWindow.g.cs
+D:\BornTodev\Sortedlist\obj\Debug\App.g.cs
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist_MarkupCompile.cache
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist_MarkupCompile.lref
+D:\BornTodev\Sortedlist\obj\Debug\MainWindow.baml
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.g.resources
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.Properties.Resources.resources
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.csproj.GenerateResource.cache
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.csproj.CoreCompileInputs.cache
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.exe
+D:\BornTodev\Sortedlist\obj\Debug\Sortedlist.pdb
